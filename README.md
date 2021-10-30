@@ -1,6 +1,44 @@
-# Course on Data Visualization in Python
+Course on Data Visualization in Python
+======================================
+![Data Visualiztion](visualizacion_datos_info_revista.jpg)
 
-This repository intends to instruct people on data visualization tools using Python. 
+## This repository intends to instruct people on data visualization tools using Python.  
+---  
+
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)  
+[![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)  
+
+
+---
+## COURSE SYLLABUS: 
+
+### Module 0 - Presentation 
+
+- 
+
+### Module 1 - Introduction
+
+- 
+
+### Module 2 - Basic display systems in Python
+
+- 
+
+### Module 3 - Basic Visualization Systems in R
+
+- 
+
+
+### Module 4 - Color in Data Visualization
+
+- 
+  
+### Module 5 - Advanced Visualization Systems
+- 
+
+### Module 6 - Dashboards
+
+- 
 
 ## Data
 
