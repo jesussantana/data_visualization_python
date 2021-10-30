@@ -2,7 +2,7 @@ Course on Data Visualization in Python
 ======================================
 ![Data Visualiztion](visualizacion_datos_info_revista.jpg)
 
-## This repository intends to instruct people on data visualization tools using Python.  
+## The main objective of this course is to know the basic concepts of data visualization and put them into practice using visualization libraries of two of the most used tools today, Python and R. 
 ---  
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)  
@@ -13,33 +13,39 @@ Course on Data Visualization in Python
 ---
 ## COURSE SYLLABUS: 
 
-### Module 0 - Presentation 
+### [Module 0 - Presentation](https://github.com/jesussantana/data_visualization_python/tree/main/Module%200%20-%20%20Presentation)
+
+- Detailed presentation of the course
+- Python work environment installation (Anaconda, Pandas, etc)
+
+### [Module 1 - Introduction](https://github.com/jesussantana/data_visualization_python/tree/main/Module%201%20-%20%20Introduction)
+
+- A theoretical introduction to data visualization
+- Visual Exploratory Data Analysis Techniques in Jupyter Notebooks
+- How to make simple graphs using Matplotlib
+- A first contact with Plotly, seeing similarities and differences with Matplotlib
+
+### [Module 2 - Basic display systems in Python]()
 
 - 
 
-### Module 1 - Introduction
-
-- 
-
-### Module 2 - Basic display systems in Python
-
-- 
-
-### Module 3 - Basic Visualization Systems in R
+### [Module 3 - Basic Visualization Systems in R]()
 
 - 
 
 
-### Module 4 - Color in Data Visualization
+### [Module 4 - Color in Data Visualization]()
 
 - 
   
-### Module 5 - Advanced Visualization Systems
+### [Module 5 - Advanced Visualization Systems]()
 - 
 
-### Module 6 - Dashboards
+### [Module 6 - Dashboards]()
 
-- 
+-   
+
+---
 
 ## Data
 
